@@ -4,6 +4,7 @@
   "description": "project",
   "main": "key.js",
   "dependencies": {
+    "imdb-api": "^3.1.1",
     "node-spotify-api": "^1.0.7",
     "twitter": "^1.7.1"
   },
